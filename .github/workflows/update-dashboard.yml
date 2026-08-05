@@ -37,7 +37,6 @@ jobs:
         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
-          git add data.json
+          git add data.json scripts/history.json
           git commit -m "Auto update dashboard" || echo "No changes"
           git push
-
