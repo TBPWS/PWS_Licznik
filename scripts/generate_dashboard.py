@@ -47,7 +47,7 @@ for row in raw[1:]:
     })
 
 # Zapisz wynik do data.json
-with open("data.json", "w", encoding="utf-8") as f:
+with open("scripts/data_raw.json", "r", encoding="utf-8") as f:
     json.dump({"players": players}, f, ensure_ascii=False, indent=2)
 
 print("Wygenerowano data.json")
