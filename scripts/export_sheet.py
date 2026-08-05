@@ -28,6 +28,6 @@ for name in sheet_names:
         range=name
     ).execute()
     output[name] = result.get("values", [])
-
-with open("data.json", "w", encoding="utf-8") as f:
+    
+with open("scripts/data_raw.json", "w", encoding="utf-8") as f:
     json.dump(output, f, ensure_ascii=False, indent=2)
