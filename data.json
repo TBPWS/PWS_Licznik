@@ -158886,6 +158886,166 @@
           "chests": 0
         }
       ]
+    },
+    {
+      "timestamp": "2026-09-04T06:27:05.751439",
+      "players": [
+        {
+          "name": "Johny SK",
+          "points": 1300,
+          "chests": 52
+        },
+        {
+          "name": "Stefan",
+          "points": 1050,
+          "chests": 42
+        },
+        {
+          "name": "sheva",
+          "points": 655,
+          "chests": 24
+        },
+        {
+          "name": "Arefir",
+          "points": 648,
+          "chests": 32
+        },
+        {
+          "name": "SGLR",
+          "points": 520,
+          "chests": 25
+        },
+        {
+          "name": "sheva AJ",
+          "points": 430,
+          "chests": 17
+        },
+        {
+          "name": "DOMEL",
+          "points": 390,
+          "chests": 15
+        },
+        {
+          "name": "Ironpick",
+          "points": 215,
+          "chests": 16
+        },
+        {
+          "name": "Rodrigo Lord",
+          "points": 205,
+          "chests": 9
+        },
+        {
+          "name": "Indio Solari",
+          "points": 175,
+          "chests": 7
+        },
+        {
+          "name": "KnightMark",
+          "points": 164,
+          "chests": 9
+        },
+        {
+          "name": "Arturito",
+          "points": 125,
+          "chests": 9
+        },
+        {
+          "name": "Tom",
+          "points": 125,
+          "chests": 5
+        },
+        {
+          "name": "Dziki",
+          "points": 115,
+          "chests": 5
+        },
+        {
+          "name": "Mihai Viteazul",
+          "points": 110,
+          "chests": 5
+        },
+        {
+          "name": "Kevin",
+          "points": 100,
+          "chests": 6
+        },
+        {
+          "name": "Tempestade",
+          "points": 100,
+          "chests": 4
+        },
+        {
+          "name": "cichy",
+          "points": 75,
+          "chests": 3
+        },
+        {
+          "name": "Gustaw",
+          "points": 75,
+          "chests": 3
+        },
+        {
+          "name": "Sif",
+          "points": 60,
+          "chests": 3
+        },
+        {
+          "name": "OnyxKratos",
+          "points": 40,
+          "chests": 3
+        },
+        {
+          "name": "ragnar",
+          "points": 40,
+          "chests": 2
+        },
+        {
+          "name": "Alean",
+          "points": 35,
+          "chests": 2
+        },
+        {
+          "name": "Kuba20b",
+          "points": 25,
+          "chests": 1
+        },
+        {
+          "name": "Dafinan",
+          "points": 20,
+          "chests": 1
+        },
+        {
+          "name": "Manador",
+          "points": 20,
+          "chests": 1
+        },
+        {
+          "name": "Grzywka",
+          "points": 15,
+          "chests": 1
+        },
+        {
+          "name": "donas",
+          "points": 10,
+          "chests": 1
+        },
+        {
+          "name": "Cristo Kris",
+          "points": 0,
+          "chests": 0
+        },
+        {
+          "name": "Endrjus",
+          "points": 0,
+          "chests": 0
+        },
+        {
+          "name": "PlayerNameLogged",
+          "points": 0,
+          "chests": 0
+        }
+      ]
     }
   ]
 }
