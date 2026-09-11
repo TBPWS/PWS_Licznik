@@ -182816,6 +182816,541 @@
           "chests": 4
         }
       ]
+    },
+    {
+      "timestamp": "2026-09-11T17:50:44.181537",
+      "players": [
+        {
+          "name": "Hatii",
+          "points": 13400,
+          "chests": 536
+        },
+        {
+          "name": "donas",
+          "points": 7034,
+          "chests": 425
+        },
+        {
+          "name": "Johny SK",
+          "points": 6640,
+          "chests": 277
+        },
+        {
+          "name": "KnightMark",
+          "points": 6526,
+          "chests": 358
+        },
+        {
+          "name": "regiooo",
+          "points": 5875,
+          "chests": 263
+        },
+        {
+          "name": "DOMEL",
+          "points": 5470,
+          "chests": 244
+        },
+        {
+          "name": "Algida",
+          "points": 5465,
+          "chests": 269
+        },
+        {
+          "name": "Gustaw",
+          "points": 5175,
+          "chests": 206
+        },
+        {
+          "name": "sheva",
+          "points": 5170,
+          "chests": 219
+        },
+        {
+          "name": "Basiek",
+          "points": 5130,
+          "chests": 296
+        },
+        {
+          "name": "Arefir",
+          "points": 4983,
+          "chests": 277
+        },
+        {
+          "name": "Thunder Beast",
+          "points": 4945,
+          "chests": 229
+        },
+        {
+          "name": "Krismo",
+          "points": 4650,
+          "chests": 225
+        },
+        {
+          "name": "Arturito",
+          "points": 4480,
+          "chests": 250
+        },
+        {
+          "name": "cichy",
+          "points": 4395,
+          "chests": 223
+        },
+        {
+          "name": "Orzeł",
+          "points": 4335,
+          "chests": 248
+        },
+        {
+          "name": "Karat",
+          "points": 4185,
+          "chests": 145
+        },
+        {
+          "name": "Dziki",
+          "points": 4136,
+          "chests": 217
+        },
+        {
+          "name": "Endrjus",
+          "points": 4125,
+          "chests": 196
+        },
+        {
+          "name": "SGLR",
+          "points": 3996,
+          "chests": 226
+        },
+        {
+          "name": "Agnes",
+          "points": 3950,
+          "chests": 190
+        },
+        {
+          "name": "KnightessNat",
+          "points": 3925,
+          "chests": 223
+        },
+        {
+          "name": "Marianek 2",
+          "points": 3735,
+          "chests": 174
+        },
+        {
+          "name": "Maks",
+          "points": 3640,
+          "chests": 166
+        },
+        {
+          "name": "Stefan",
+          "points": 3495,
+          "chests": 189
+        },
+        {
+          "name": "Kuba20b",
+          "points": 3365,
+          "chests": 150
+        },
+        {
+          "name": "S A L D A",
+          "points": 3290,
+          "chests": 175
+        },
+        {
+          "name": "Grzywka",
+          "points": 3270,
+          "chests": 255
+        },
+        {
+          "name": "QueenOfPlants",
+          "points": 3270,
+          "chests": 153
+        },
+        {
+          "name": "Umri",
+          "points": 3185,
+          "chests": 149
+        },
+        {
+          "name": "Enfi",
+          "points": 3132,
+          "chests": 138
+        },
+        {
+          "name": "Manador",
+          "points": 3046,
+          "chests": 178
+        },
+        {
+          "name": "Gazz",
+          "points": 3040,
+          "chests": 152
+        },
+        {
+          "name": "konrad",
+          "points": 2915,
+          "chests": 138
+        },
+        {
+          "name": "Tom",
+          "points": 2915,
+          "chests": 186
+        },
+        {
+          "name": "Kevin",
+          "points": 2810,
+          "chests": 158
+        },
+        {
+          "name": "Mihai Viteazul",
+          "points": 2740,
+          "chests": 127
+        },
+        {
+          "name": "Mugor",
+          "points": 2725,
+          "chests": 138
+        },
+        {
+          "name": "Marianek",
+          "points": 2685,
+          "chests": 123
+        },
+        {
+          "name": "Guzahn",
+          "points": 2640,
+          "chests": 143
+        },
+        {
+          "name": "Arel",
+          "points": 2630,
+          "chests": 133
+        },
+        {
+          "name": "Bobek",
+          "points": 2580,
+          "chests": 148
+        },
+        {
+          "name": "Rodrigo Lord",
+          "points": 2580,
+          "chests": 176
+        },
+        {
+          "name": "Daenerys Targaryen",
+          "points": 2555,
+          "chests": 124
+        },
+        {
+          "name": "Atena 2",
+          "points": 2375,
+          "chests": 110
+        },
+        {
+          "name": "FunTo",
+          "points": 2350,
+          "chests": 110
+        },
+        {
+          "name": "Piotr",
+          "points": 2315,
+          "chests": 135
+        },
+        {
+          "name": "Dafinan",
+          "points": 2220,
+          "chests": 132
+        },
+        {
+          "name": "sheva AJ",
+          "points": 2220,
+          "chests": 127
+        },
+        {
+          "name": "JanBuj",
+          "points": 2195,
+          "chests": 150
+        },
+        {
+          "name": "Tempestade",
+          "points": 2150,
+          "chests": 107
+        },
+        {
+          "name": "Kot",
+          "points": 2035,
+          "chests": 134
+        },
+        {
+          "name": "Cristo Kris",
+          "points": 1981,
+          "chests": 98
+        },
+        {
+          "name": "DIABLICA",
+          "points": 1850,
+          "chests": 116
+        },
+        {
+          "name": "Dzidek",
+          "points": 1845,
+          "chests": 99
+        },
+        {
+          "name": "Broomhilda J",
+          "points": 1805,
+          "chests": 64
+        },
+        {
+          "name": "Arihelm",
+          "points": 1800,
+          "chests": 244
+        },
+        {
+          "name": "Victoria II",
+          "points": 1725,
+          "chests": 108
+        },
+        {
+          "name": "Ironpick",
+          "points": 1685,
+          "chests": 192
+        },
+        {
+          "name": "Landryna",
+          "points": 1615,
+          "chests": 72
+        },
+        {
+          "name": "MDM",
+          "points": 1545,
+          "chests": 93
+        },
+        {
+          "name": "Marafad",
+          "points": 1530,
+          "chests": 92
+        },
+        {
+          "name": "Dworska Gnida",
+          "points": 1515,
+          "chests": 71
+        },
+        {
+          "name": "Margo",
+          "points": 1470,
+          "chests": 90
+        },
+        {
+          "name": "Cordantrius",
+          "points": 1425,
+          "chests": 90
+        },
+        {
+          "name": "Mel",
+          "points": 1372,
+          "chests": 91
+        },
+        {
+          "name": "Nofur",
+          "points": 1365,
+          "chests": 108
+        },
+        {
+          "name": "Auth",
+          "points": 1250,
+          "chests": 100
+        },
+        {
+          "name": "warrior of de world",
+          "points": 1230,
+          "chests": 46
+        },
+        {
+          "name": "Alean",
+          "points": 1210,
+          "chests": 89
+        },
+        {
+          "name": "Indio Solari",
+          "points": 1180,
+          "chests": 72
+        },
+        {
+          "name": "Mabrinod",
+          "points": 1165,
+          "chests": 82
+        },
+        {
+          "name": "OnyxKratos",
+          "points": 1165,
+          "chests": 115
+        },
+        {
+          "name": "Beggar",
+          "points": 1150,
+          "chests": 66
+        },
+        {
+          "name": "Mario",
+          "points": 1125,
+          "chests": 61
+        },
+        {
+          "name": "Bandyta II",
+          "points": 1115,
+          "chests": 78
+        },
+        {
+          "name": "GUS",
+          "points": 1105,
+          "chests": 73
+        },
+        {
+          "name": "Edi",
+          "points": 1085,
+          "chests": 66
+        },
+        {
+          "name": "Unicrom01",
+          "points": 1050,
+          "chests": 40
+        },
+        {
+          "name": "Sif",
+          "points": 1020,
+          "chests": 101
+        },
+        {
+          "name": "DarkAngel",
+          "points": 995,
+          "chests": 62
+        },
+        {
+          "name": "Lohengrin",
+          "points": 965,
+          "chests": 39
+        },
+        {
+          "name": "Ayar",
+          "points": 905,
+          "chests": 90
+        },
+        {
+          "name": "Vanessa Bela",
+          "points": 905,
+          "chests": 85
+        },
+        {
+          "name": "ONUFRY ZAGŁOBA",
+          "points": 860,
+          "chests": 48
+        },
+        {
+          "name": "Quesadilla",
+          "points": 840,
+          "chests": 24
+        },
+        {
+          "name": "ZibiGold",
+          "points": 695,
+          "chests": 49
+        },
+        {
+          "name": "Okley",
+          "points": 685,
+          "chests": 42
+        },
+        {
+          "name": "Prometeusz",
+          "points": 665,
+          "chests": 62
+        },
+        {
+          "name": "Eyanin",
+          "points": 581,
+          "chests": 59
+        },
+        {
+          "name": "Bain",
+          "points": 500,
+          "chests": 53
+        },
+        {
+          "name": "Gin 70",
+          "points": 475,
+          "chests": 44
+        },
+        {
+          "name": "Battousai",
+          "points": 470,
+          "chests": 17
+        },
+        {
+          "name": "Fredzia",
+          "points": 405,
+          "chests": 16
+        },
+        {
+          "name": "ahmed",
+          "points": 400,
+          "chests": 89
+        },
+        {
+          "name": "ragnar",
+          "points": 395,
+          "chests": 21
+        },
+        {
+          "name": "CRAZY BOY I",
+          "points": 345,
+          "chests": 12
+        },
+        {
+          "name": "QazaqBatyr",
+          "points": 320,
+          "chests": 10
+        },
+        {
+          "name": "Marunik",
+          "points": 175,
+          "chests": 170
+        },
+        {
+          "name": "Ondrasz",
+          "points": 115,
+          "chests": 7
+        },
+        {
+          "name": "Qeen",
+          "points": 100,
+          "chests": 34
+        },
+        {
+          "name": "Urząd Statystyczny",
+          "points": 85,
+          "chests": 51
+        },
+        {
+          "name": "Tygonris",
+          "points": 75,
+          "chests": 5
+        },
+        {
+          "name": "Koriols",
+          "points": 50,
+          "chests": 2
+        },
+        {
+          "name": "PlayerNameLogged",
+          "points": 0,
+          "chests": 0
+        },
+        {
+          "name": "YNWA",
+          "points": 0,
+          "chests": 4
+        }
+      ]
     }
   ]
 }
