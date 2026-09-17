@@ -200473,5 +200473,105 @@
         "chests": 0
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-17T15:15:13.579942",
+    "players": [
+      {
+        "name": "Arefir",
+        "points": 345,
+        "chests": 16
+      },
+      {
+        "name": "Marianek 2",
+        "points": 325,
+        "chests": 10
+      },
+      {
+        "name": "Alean",
+        "points": 185,
+        "chests": 9
+      },
+      {
+        "name": "Indio Solari",
+        "points": 175,
+        "chests": 7
+      },
+      {
+        "name": "sheva AJ",
+        "points": 175,
+        "chests": 7
+      },
+      {
+        "name": "DOMEL",
+        "points": 130,
+        "chests": 4
+      },
+      {
+        "name": "Dafinan",
+        "points": 110,
+        "chests": 4
+      },
+      {
+        "name": "Vanessa Bela",
+        "points": 100,
+        "chests": 5
+      },
+      {
+        "name": "cichy",
+        "points": 75,
+        "chests": 3
+      },
+      {
+        "name": "Maks",
+        "points": 75,
+        "chests": 3
+      },
+      {
+        "name": "sheva",
+        "points": 70,
+        "chests": 3
+      },
+      {
+        "name": "Nofur",
+        "points": 65,
+        "chests": 4
+      },
+      {
+        "name": "Cristo Kris",
+        "points": 30,
+        "chests": 1
+      },
+      {
+        "name": "Bandyta II",
+        "points": 25,
+        "chests": 1
+      },
+      {
+        "name": "KnightMark",
+        "points": 20,
+        "chests": 1
+      },
+      {
+        "name": "Rodrigo Lord",
+        "points": 20,
+        "chests": 1
+      },
+      {
+        "name": "Manador",
+        "points": 5,
+        "chests": 5
+      },
+      {
+        "name": "Basiek",
+        "points": 0,
+        "chests": 4
+      },
+      {
+        "name": "PlayerNameLogged",
+        "points": 0,
+        "chests": 0
+      }
+    ]
   }
 ]
