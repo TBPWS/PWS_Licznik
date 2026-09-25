@@ -221213,5 +221213,115 @@
         "chests": 0
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-25T13:32:31.579164",
+    "players": [
+      {
+        "name": "Orzeł",
+        "points": 730,
+        "chests": 31
+      },
+      {
+        "name": "cichy",
+        "points": 530,
+        "chests": 21
+      },
+      {
+        "name": "Tom",
+        "points": 500,
+        "chests": 25
+      },
+      {
+        "name": "Battousai",
+        "points": 240,
+        "chests": 8
+      },
+      {
+        "name": "Margo",
+        "points": 190,
+        "chests": 9
+      },
+      {
+        "name": "Rodrigo Lord",
+        "points": 190,
+        "chests": 7
+      },
+      {
+        "name": "Qeen",
+        "points": 175,
+        "chests": 7
+      },
+      {
+        "name": "Dworska Gnida",
+        "points": 150,
+        "chests": 6
+      },
+      {
+        "name": "Enfi",
+        "points": 125,
+        "chests": 5
+      },
+      {
+        "name": "KnightMark",
+        "points": 100,
+        "chests": 5
+      },
+      {
+        "name": "Algida",
+        "points": 85,
+        "chests": 4
+      },
+      {
+        "name": "Nofur",
+        "points": 85,
+        "chests": 6
+      },
+      {
+        "name": "JUMMY",
+        "points": 70,
+        "chests": 3
+      },
+      {
+        "name": "Basiek",
+        "points": 60,
+        "chests": 6
+      },
+      {
+        "name": "Prometeusz",
+        "points": 60,
+        "chests": 2
+      },
+      {
+        "name": "Szczepan",
+        "points": 40,
+        "chests": 2
+      },
+      {
+        "name": "Dafinan",
+        "points": 30,
+        "chests": 2
+      },
+      {
+        "name": "Cristo Kris",
+        "points": 20,
+        "chests": 1
+      },
+      {
+        "name": "Mugor",
+        "points": 20,
+        "chests": 1
+      },
+      {
+        "name": "Kevin",
+        "points": 15,
+        "chests": 1
+      },
+      {
+        "name": "PlayerNameLogged",
+        "points": 0,
+        "chests": 0
+      }
+    ]
   }
 ]
