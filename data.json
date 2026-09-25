@@ -2,8 +2,13 @@
   "players": [
     {
       "name": "Orzeł",
-      "points": 730,
-      "chests": 31
+      "points": 1585,
+      "chests": 65
+    },
+    {
+      "name": "Tom",
+      "points": 660,
+      "chests": 33
     },
     {
       "name": "cichy",
@@ -11,14 +16,34 @@
       "chests": 21
     },
     {
-      "name": "Tom",
-      "points": 500,
-      "chests": 25
+      "name": "Battousai",
+      "points": 480,
+      "chests": 16
     },
     {
-      "name": "Battousai",
-      "points": 240,
-      "chests": 8
+      "name": "KnightMark",
+      "points": 441,
+      "chests": 23
+    },
+    {
+      "name": "Enfi",
+      "points": 350,
+      "chests": 16
+    },
+    {
+      "name": "S A L D A",
+      "points": 325,
+      "chests": 13
+    },
+    {
+      "name": "Basiek",
+      "points": 310,
+      "chests": 15
+    },
+    {
+      "name": "Guzahn",
+      "points": 200,
+      "chests": 10
     },
     {
       "name": "Margo",
@@ -41,12 +66,17 @@
       "chests": 6
     },
     {
-      "name": "Enfi",
-      "points": 125,
+      "name": "Kot",
+      "points": 120,
       "chests": 5
     },
     {
-      "name": "KnightMark",
+      "name": "Alean",
+      "points": 105,
+      "chests": 6
+    },
+    {
+      "name": "Kevin",
       "points": 100,
       "chests": 5
     },
@@ -66,13 +96,18 @@
       "chests": 3
     },
     {
-      "name": "Basiek",
-      "points": 60,
-      "chests": 6
-    },
-    {
       "name": "Prometeusz",
       "points": 60,
+      "chests": 2
+    },
+    {
+      "name": "DIABLICA",
+      "points": 50,
+      "chests": 2
+    },
+    {
+      "name": "Cristo Kris",
+      "points": 45,
       "chests": 2
     },
     {
@@ -86,8 +121,8 @@
       "chests": 2
     },
     {
-      "name": "Cristo Kris",
-      "points": 20,
+      "name": "Tempestade",
+      "points": 30,
       "chests": 1
     },
     {
@@ -96,9 +131,9 @@
       "chests": 1
     },
     {
-      "name": "Kevin",
-      "points": 15,
-      "chests": 1
+      "name": "Arturito",
+      "points": 0,
+      "chests": 4
     },
     {
       "name": "PlayerNameLogged",
@@ -221424,6 +221459,151 @@
           "name": "Kevin",
           "points": 15,
           "chests": 1
+        },
+        {
+          "name": "PlayerNameLogged",
+          "points": 0,
+          "chests": 0
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-09-25T18:25:23.029271",
+      "players": [
+        {
+          "name": "Orzeł",
+          "points": 1585,
+          "chests": 65
+        },
+        {
+          "name": "Tom",
+          "points": 660,
+          "chests": 33
+        },
+        {
+          "name": "cichy",
+          "points": 530,
+          "chests": 21
+        },
+        {
+          "name": "Battousai",
+          "points": 480,
+          "chests": 16
+        },
+        {
+          "name": "KnightMark",
+          "points": 441,
+          "chests": 23
+        },
+        {
+          "name": "Enfi",
+          "points": 350,
+          "chests": 16
+        },
+        {
+          "name": "S A L D A",
+          "points": 325,
+          "chests": 13
+        },
+        {
+          "name": "Basiek",
+          "points": 310,
+          "chests": 15
+        },
+        {
+          "name": "Guzahn",
+          "points": 200,
+          "chests": 10
+        },
+        {
+          "name": "Margo",
+          "points": 190,
+          "chests": 9
+        },
+        {
+          "name": "Rodrigo Lord",
+          "points": 190,
+          "chests": 7
+        },
+        {
+          "name": "Qeen",
+          "points": 175,
+          "chests": 7
+        },
+        {
+          "name": "Dworska Gnida",
+          "points": 150,
+          "chests": 6
+        },
+        {
+          "name": "Kot",
+          "points": 120,
+          "chests": 5
+        },
+        {
+          "name": "Alean",
+          "points": 105,
+          "chests": 6
+        },
+        {
+          "name": "Kevin",
+          "points": 100,
+          "chests": 5
+        },
+        {
+          "name": "Algida",
+          "points": 85,
+          "chests": 4
+        },
+        {
+          "name": "Nofur",
+          "points": 85,
+          "chests": 6
+        },
+        {
+          "name": "JUMMY",
+          "points": 70,
+          "chests": 3
+        },
+        {
+          "name": "Prometeusz",
+          "points": 60,
+          "chests": 2
+        },
+        {
+          "name": "DIABLICA",
+          "points": 50,
+          "chests": 2
+        },
+        {
+          "name": "Cristo Kris",
+          "points": 45,
+          "chests": 2
+        },
+        {
+          "name": "Szczepan",
+          "points": 40,
+          "chests": 2
+        },
+        {
+          "name": "Dafinan",
+          "points": 30,
+          "chests": 2
+        },
+        {
+          "name": "Tempestade",
+          "points": 30,
+          "chests": 1
+        },
+        {
+          "name": "Mugor",
+          "points": 20,
+          "chests": 1
+        },
+        {
+          "name": "Arturito",
+          "points": 0,
+          "chests": 4
         },
         {
           "name": "PlayerNameLogged",
