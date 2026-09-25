@@ -221168,5 +221168,50 @@
         "chests": 0
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-25T07:31:12.234775",
+    "players": [
+      {
+        "name": "Tom",
+        "points": 280,
+        "chests": 14
+      },
+      {
+        "name": "Rodrigo Lord",
+        "points": 190,
+        "chests": 7
+      },
+      {
+        "name": "Qeen",
+        "points": 175,
+        "chests": 7
+      },
+      {
+        "name": "Nofur",
+        "points": 85,
+        "chests": 6
+      },
+      {
+        "name": "Cristo Kris",
+        "points": 20,
+        "chests": 1
+      },
+      {
+        "name": "Mugor",
+        "points": 20,
+        "chests": 1
+      },
+      {
+        "name": "Szczepan",
+        "points": 15,
+        "chests": 1
+      },
+      {
+        "name": "PlayerNameLogged",
+        "points": 0,
+        "chests": 0
+      }
+    ]
   }
 ]
