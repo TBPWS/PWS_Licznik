@@ -221668,5 +221668,240 @@
         "chests": 0
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-26T00:28:14.193377",
+    "players": [
+      {
+        "name": "Orzeł",
+        "points": 2215,
+        "chests": 90
+      },
+      {
+        "name": "Basiek",
+        "points": 1150,
+        "chests": 45
+      },
+      {
+        "name": "Tom",
+        "points": 1080,
+        "chests": 54
+      },
+      {
+        "name": "KnightMark",
+        "points": 887,
+        "chests": 46
+      },
+      {
+        "name": "cichy",
+        "points": 715,
+        "chests": 28
+      },
+      {
+        "name": "Battousai",
+        "points": 630,
+        "chests": 21
+      },
+      {
+        "name": "S A L D A",
+        "points": 610,
+        "chests": 25
+      },
+      {
+        "name": "sheva AJ",
+        "points": 550,
+        "chests": 22
+      },
+      {
+        "name": "AGNESS",
+        "points": 510,
+        "chests": 17
+      },
+      {
+        "name": "Szczepan",
+        "points": 455,
+        "chests": 18
+      },
+      {
+        "name": "Enfi",
+        "points": 410,
+        "chests": 19
+      },
+      {
+        "name": "Kos",
+        "points": 405,
+        "chests": 18
+      },
+      {
+        "name": "Algida",
+        "points": 380,
+        "chests": 22
+      },
+      {
+        "name": "Krismo",
+        "points": 360,
+        "chests": 13
+      },
+      {
+        "name": "Guzahn",
+        "points": 315,
+        "chests": 15
+      },
+      {
+        "name": "SALDA SK",
+        "points": 310,
+        "chests": 20
+      },
+      {
+        "name": "Mabrinod",
+        "points": 275,
+        "chests": 12
+      },
+      {
+        "name": "Bobek",
+        "points": 260,
+        "chests": 13
+      },
+      {
+        "name": "Margo",
+        "points": 230,
+        "chests": 11
+      },
+      {
+        "name": "Cristo Kris",
+        "points": 220,
+        "chests": 9
+      },
+      {
+        "name": "Dafinan",
+        "points": 220,
+        "chests": 10
+      },
+      {
+        "name": "Arturito",
+        "points": 210,
+        "chests": 13
+      },
+      {
+        "name": "Arefir",
+        "points": 205,
+        "chests": 19
+      },
+      {
+        "name": "Rodrigo Lord",
+        "points": 190,
+        "chests": 7
+      },
+      {
+        "name": "Qeen",
+        "points": 175,
+        "chests": 7
+      },
+      {
+        "name": "QueenOfPlants",
+        "points": 170,
+        "chests": 7
+      },
+      {
+        "name": "sheva",
+        "points": 170,
+        "chests": 6
+      },
+      {
+        "name": "Arihelm",
+        "points": 155,
+        "chests": 6
+      },
+      {
+        "name": "Dworska Gnida",
+        "points": 150,
+        "chests": 6
+      },
+      {
+        "name": "Mario",
+        "points": 150,
+        "chests": 6
+      },
+      {
+        "name": "Nofur",
+        "points": 150,
+        "chests": 11
+      },
+      {
+        "name": "Kevin",
+        "points": 130,
+        "chests": 8
+      },
+      {
+        "name": "Ayar",
+        "points": 125,
+        "chests": 5
+      },
+      {
+        "name": "Kot",
+        "points": 120,
+        "chests": 5
+      },
+      {
+        "name": "Alean",
+        "points": 105,
+        "chests": 6
+      },
+      {
+        "name": "Piotr",
+        "points": 100,
+        "chests": 5
+      },
+      {
+        "name": "JUMMY",
+        "points": 70,
+        "chests": 3
+      },
+      {
+        "name": "Mugor",
+        "points": 70,
+        "chests": 4
+      },
+      {
+        "name": "Prometeusz",
+        "points": 60,
+        "chests": 2
+      },
+      {
+        "name": "DIABLICA",
+        "points": 50,
+        "chests": 2
+      },
+      {
+        "name": "Ironpick",
+        "points": 50,
+        "chests": 4
+      },
+      {
+        "name": "GUS",
+        "points": 45,
+        "chests": 3
+      },
+      {
+        "name": "Tempestade",
+        "points": 30,
+        "chests": 1
+      },
+      {
+        "name": "MDM",
+        "points": 25,
+        "chests": 1
+      },
+      {
+        "name": "Mel",
+        "points": 20,
+        "chests": 1
+      },
+      {
+        "name": "PlayerNameLogged",
+        "points": 0,
+        "chests": 0
+      }
+    ]
   }
 ]
